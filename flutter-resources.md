@@ -38,7 +38,7 @@ This list contains lots of useful reaources referring Flutter, feel free to cont
 * [Itsallwidgets](https://itsallwidgets.com/)
 * [E-Book: Top 17 Apps Made with Flutter](https://www.thedroidsonroids.com/resources/ebooks/apps-made-with-flutter)
 
-### :butterfly: Talks & Videos:
+## :butterfly: Talks & Videos:
 
 * [Collection of Talks](https://github.com/Rahiche/awesome-flutter-talks)
 * [The Boring Flutter Development Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
