@@ -29,6 +29,7 @@ This list contains lots of useful resources referring Flutter, feel free to cont
 * (English) [Robert Brunhage](https://www.youtube.com/user/MrShadowFate)
 * (Arabic) [Raouf Rahiche](https://www.youtube.com/playlist?list=PLClgJfKTCMEij-GsnzXcu4iKeGlARnimi)
 * (Arabic) [Mohammed Essa](https://www.youtube.com/user/muhammedgalaxy/playlists)
+* (Arabic) [Php Anonymous course](https://www.youtube.com/watch?v=R-rv6vQfXq8&feature=youtu.be)
 
 ## :butterfly: Showcases & Apps Made with Flutter:
  
