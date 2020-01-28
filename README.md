@@ -19,8 +19,9 @@ This list contains lots of useful resources referring Flutter, feel free to cont
 
 ## :butterfly: Youtube Channels & Playlists:
 
-* (English) [Raga Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ)
+* (English) [Flutter in Focus Playlist](https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2)
 * (English) [Flutter Official Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+* (English) [Raga Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ)
 * (English) [Smartherd](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB)
 * (English) [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
 * (English) [Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY)
