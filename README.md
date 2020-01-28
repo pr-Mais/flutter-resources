@@ -3,10 +3,10 @@
 # List of Flutter Resources
 <br>
 
-[Flutter](https://flutter.dev/) is an open-source mobile application development framework created by Google. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications for Google Fuchsia.
+[Flutter](https://flutter.dev/) is an open-source UI Kit developed by Google to create native and beautiful applications that runs on mobile, web and desktop from a single codebase.
 
-This list contains lots of useful resources referring Flutter, feel free to contribute your changes as a pull request, or contact me on [@pr_Mais](https://twitter.com/pr_Mais), and if you would like to take a look at more GCP resources (Google Cloud Platform), **[here](https://github.com/ADsecu/GCP-resources)** is a reference to a good repository.
-<br>
+This list contains lots of useful resources referring Flutter, feel free to contribute your changes as a pull request, or contact me on [@pr_Mais](www.twitter.com/pr_Mais).
+
 ## :butterfly: Official Documentation: 
 
 * [Installation](https://flutter.dev/docs/get-started/install)
