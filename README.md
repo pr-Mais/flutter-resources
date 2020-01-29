@@ -56,7 +56,8 @@ This list contains lots of useful resources referring Flutter, feel free to cont
 *	[Official Packages Site](https://pub.dev/flutter)
 *	[Dart DevTools](https://flutter.github.io/devtools/) <br>*DevTools supports inspecting the UI layout and state of a Flutter app, diagnosing UI jank performance issues in a Flutter app, source-level debugging of a Flutter or Dart command-line app, and viewing general log and diagnostics information about a running app.*
 *	[Codemagic](https://codemagic.io/start/)
-*	[2Dimensions](https://www.2dimensions.com/)
+*	[Rive](https://rive.app/)
+*a tool to create complex animations.*
 
 ## :butterfly: Medium:
 
