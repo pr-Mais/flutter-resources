@@ -48,8 +48,11 @@ This list contains lots of useful resources referring Flutter, feel free to cont
 ## :butterfly: Courses:
 
 * (Free) [Udacity - Build Native Mobile Apps With Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) **_Highly Recommended!! ⭐️_**
+* (Free) [Angela Yu on Youtube - How to Build Flutter Apps for iOS and Android](https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) **_Highly Recommended for Beginners ⭐️_**
 * (Free) [Udemy - Learn Flutter Begginers Course](https://www.udemy.com/learn-flutter-beginners-course/)
 * (Paid) [Udemy - Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) **_Highly Recommended!! ⭐️_**
+* (Paid) [Udemy - The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) **_Highly Recommended for Beginners ⭐️_**
+
 
 ## :butterfly: Tools & Plugins:
 
