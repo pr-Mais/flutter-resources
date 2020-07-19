@@ -28,6 +28,7 @@ This list contains lots of useful resources referring Flutter, feel free to cont
 * (English) [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg)
 * (English) [Android Master](https://www.youtube.com/playlist?list=PL6Q9UqV2Sf1gDZcXUtyGPgJupseD-a8TA) 
 * (English) [Robert Brunhage](https://www.youtube.com/user/MrShadowFate)
+* (English) [Flutter Explained](https://www.youtube.com/user/Lionranger)
 * (Arabic) [Raouf Rahiche](https://www.youtube.com/playlist?list=PLClgJfKTCMEij-GsnzXcu4iKeGlARnimi)
 * (Arabic) [Mohammed Essa](https://www.youtube.com/user/muhammedgalaxy/playlists)
 * (Arabic) [Php Anonymous course](https://www.youtube.com/watch?v=R-rv6vQfXq8&feature=youtu.be)
